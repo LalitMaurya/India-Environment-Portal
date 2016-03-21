@@ -1,5 +1,5 @@
 {
-  "baseTemperature": 0,
+  "baseTemperature": 8.66,
   "monthlyVariance": [
     
     
@@ -15783,6 +15783,16 @@
       "year": 2015,
       "month": 12,
       "variance": 1.868
+    },
+    {
+      "year": 2016,
+      "month": 1,
+      "variance": 1.14
+    },
+    {
+      "year": 2016,
+      "month": 2,
+      "variance": 1.35
     }
   ]
 }
