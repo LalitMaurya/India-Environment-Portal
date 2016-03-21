@@ -15768,6 +15768,21 @@
       "year": 2015,
       "month": 9,
       "variance": 0.870
+    },
+    {
+      "year": 2015,
+      "month": 10,
+      "variance": 1.531
+    },
+    {
+      "year": 2015,
+      "month": 11,
+      "variance": 1.31
+    },
+    {
+      "year": 2015,
+      "month": 12,
+      "variance": 1.868
     }
   ]
 }
