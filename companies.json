@@ -1,0 +1,314 @@
+{
+	"name": "Top 250 ",
+	"total": 39199.69,
+	"children": [
+		{
+			"name": "Top 100 companies",
+			"children": [
+				{
+					"name": "Investor own",
+					"children": [
+						{ 
+							"name": "Aerospace, Defence", 
+							"children":  [
+								{"name":"Boeing Company","size":170.95},
+								{"name":"Airbus Group","size":141.471321}
+							],
+							"country": "USA",
+							"rank": 58
+						},
+						{ 
+							"name": "Air Conditioning", 
+							"children":  [
+								{"name":"Daikin Industries Ltd.","size":198.770331}
+							],
+							"country": "USA",
+							"rank": 50
+						},
+						{ 
+							"name": "Automobile Industry", 
+							"children":  [
+								{"name":"Toyota Motor Corporation","size":251.538526},
+								{"name":"General Motors Company","size":328.696823},
+								{"name":"Volkswagen AG","size":340.656337},
+								{"name":"Honda Motor Company","size":304.145341},
+								{"name":"MAN SE","size":225.213654},
+								{"name":"Nissan Motor Co., Ltd.","size":154.730523},
+								{"name":"Ford Motor Company","size":154.276861},
+								{"name":"Rolls-Royce","size":133.108391},
+								{"name":"Dongfeng Motor Group","size":50.181},
+								{"name":"Fiat Chrysler Automobiles NV","size":114.393185}
+							],
+							"country": "Japan",
+							"rank": 23
+						},
+						{ 
+							"name": "Building Material", 
+							"children":  [
+								{"name":"LafargeHolcim Ltd","size":198.870897}
+							],
+							"country": "Switzerland",
+							"rank": 44
+						},
+						{ 
+							"name": "Cement", 
+							"children":  [
+								{"name":"Anhui Conch Cement","size":209.8058}
+							],
+							"country": "China",
+							"rank": 51
+						},
+						{ 
+							"name": "Chemical", 
+							"children":  [
+								{"name":"BASF SE","size":163.823},
+								{"name":"The Dow Chemical Company","size":120.36}
+							],
+							"country": "Germany",
+							"rank": 63
+						},
+						{ 
+							"name": "Consumer goods", 
+							"children":  [
+								{"name":"Procter & Gamble Company","size":222.684239}
+							],
+							"country": "United States",
+							"rank": 45
+						},
+						{ 
+							"name": "Electronics/ Utility", 
+							"children":  [
+								{"name":"RoyaL Philips","size":104.368904}
+							],
+							"country": "Netherlands",
+							"rank": 95
+						},
+						{ 
+							"name": "Energy", 
+							"children":  [
+								{"name":"Phillips 66","size":353.8355},
+								{"name":"ENGIE","size":321.213893},
+								{"name":"ConocoPhillip","size":254.345983},
+								{"name":"RWE AG","size":241.8},
+								{"name":"E.ON SE","size":84.485909},
+								{"name":"General Electric Company","size":171.501},
+								{"name":"China Resources Power Holdings Company Limited","size":174.7324},
+								{"name":"Centrica","size":150.217194},
+								{"name":"ENELSpA","size":114.583},
+								{"name":"American Electric Power Company, Inc.","size":119.007154},
+								{"name":"Exelon Corporation","size":130.40504},
+								{"name":"Duke Energy Corporation","size":120.852909},
+								{"name":"The Southern Company","size":80.6918}
+							],
+							"country": "United States",
+							"rank": 26
+						},
+						{ 
+							"name": "Food Processing Industry", 
+							"children":  [
+								{"name":"Nestle","size":113.467241}
+							],
+							"country": "Switzerland",
+							"rank": 89
+						},
+						{ 
+							"name": "Iron and Steel Industry", 
+							"children":  [
+								{"name":"Thyssenkrupp AG","size":953.797},
+								{"name":"ArcelorMittal","size":238.082827},
+								{"name":"POSCO","size":100.59}
+							],
+							"country": "Germany",
+							"rank": 4
+						},
+						{ 
+							"name": "Manufacturing Industry", 
+							"children":  [
+								{"name":"Cummins Inc.","size":805.593388},
+								{"name":"United Technologies Corporation","size":403.968529},
+								{"name":"Wistron Corp","size":403.527472},
+								{"name":"Ingersoll Rand Co. Ltd.","size":217.122025}
+							],
+							"country": "United States",
+							"rank": 7
+						},
+						{ 
+							"name": "Mining Industry", 
+							"children":  [
+								{"name":"Rio Tinto","size":670.621},
+								{"name":"BHP Billiton","size":467.795},
+								{"name":"Peabody Energy Corporation","size":372.034991},
+								{"name":"GLencore plc","size":339.425188},
+								{"name":"Vale","size":335.362681},
+								{"name":"Anglo American","size":248.611091},
+								{"name":"Yanzhou Coal Mining","size":159.34194},
+								{"name":"South32","size":156.852236},
+								{"name":"Cloud Peak Energy Inc","size":96.608},
+								{"name":"Kumba Iron Ore","size":120.49572}
+							],
+							"country": "Australia",
+							"rank": 10
+						},
+						{ 
+							"name": "Petroleum and Natural Gas", 
+							"children":  [
+								{"name":"Exxon Mobil Corporation","size":1098.498615},
+								{"name":"Royal Dutch Shell","size":734.16},
+								{"name":"Total","size":469.545},
+								{"name":"BP","size":499.780356},
+								{"name":"Chevron Corporation","size":500.853},
+								{"name":"Valero Energy Corporation","size":443.271},
+								{"name":"Lukoil OAO","size":338.014263},
+								{"name":"StatoiL ASA","size":240.563574},
+								{"name":"Eni SpA","size":287.432924},
+								{"name":"Marathon Petroleum","size":280.623},
+								{"name":"Reliance Industries","size":263.339699},
+								{"name":"CNOOC","size":196.054993},
+								{"name":"SK Innovation Co Ltd","size":183.09458},
+								{"name":"JX HoLclings, Inc","size":163.075771},
+								{"name":"Novatek OAO","size":156.080208},
+								{"name":"Repsol","size":182.879966},
+								{"name":"OMV AG","size":128.041375},
+								{"name":"Tesoro Corporation","size":137.3895},
+								{"name":"EcopetroL Sa","size":111.544774},
+								{"name":"Anadarko Petroleum Corporation","size":114.759647},
+								{"name":"Occidental Petroleum Corporation","size":104.56824}
+							],
+							"country": "United States",
+							"rank": 3
+						},
+						{ 
+							"name": "Shipping", 
+							"children":  [
+								{"name":"A.P. Moller - Maersk","size":125.269835}
+							],
+							"country": "Denmark",
+							"rank": 79
+						},
+						{ 
+							"name": "Tyre/ Rubber", 
+							"children":  [
+								{"name":"Goodyear Tire & Rubber Company","size":177.210349},
+								{"name":"Bridgestone Corporation","size":124.831818},
+								{"name":"MicheLin","size":146.764802}
+							],
+							"country": "United States",
+							"rank": 56
+						},
+						{ 
+							"name": "Utilities", 
+							"children":  [
+								{"name":"YTL Corp","size":359.818025},
+								{"name":"Hitachi, Ltd.","size":123.825362}
+							],
+							"country": "Malaysia",
+							"rank": 24
+						}
+
+						
+					]
+				},
+				{
+					"name": "State owned",
+					"children": [
+						{ 
+							"name": "Automobile", 
+							"children":  [
+								{"name":"Saic Motor Corporation","size":267.22}
+							],
+							"country": "China",
+							"rank": 55
+						},
+						{ 
+							"name": "Energy", 
+							"children":  [
+								{"name":"Huaneng Power International","size":240.2375},
+								{"name":"NTPC Ltd","size":185.6427},
+								{"name":"EDF","size":127.475878},
+								{"name":"Huadian Power International Corporation Limited","size":116.086},
+								{"name":"The Tokyo Electric Power Company Holdings, Inc (TEPCO)","size":94.5832},
+								{"name":"Datang International Power Generation","size":102.6143}
+							],
+							"country": "China",
+							"rank": 38
+						},
+						{ 
+							"name": "Mining", 
+							"children":  [
+								{"name":"Coal India","size":2076.24422},
+								{"name":"China Shenhua Energy","size":664.949}
+							],
+							"country": "India",
+							"rank": 1
+						},
+						{ 
+							"name": "Petroleum and Natural Gas", 
+							"children":  [
+								{"name":"PJSC Gazprom","size":1176.925161},
+								{"name":"PETROCHINA Company Limited","size":621.336019},
+								{"name":"Petroleo Brasileiro SA - Petrobras","size":468.402442},
+								{"name":"Surgutnefteg OAO","size":198.15977},
+								{"name":"PTT","size":184.456302},
+								{"name":"Gas Natural SDG SA","size":159.177837},
+								{"name":"Oil & Natural Gas","size":149.826262},
+								{"name":"Canadian Natural Resources Limited","size":142.267603}
+							],
+							"country": "Russia",
+							"rank": 2
+						}
+					]
+				},
+				{
+					"name": "Nation states",
+					"children": [
+						{ 
+							"name": "Energy", 
+							"children":  [
+								{"name":"China Coal Energy","size":176},
+								{"name":"Korea Electric Power Corp","size":456}
+							],
+							"country": "China",
+							"rank": 12
+						},
+						{ 
+							"name": "Chemical", 
+							"children":  [
+								{"name":"China Petroleum & Chemical Corporation","size":721}
+							],
+							"country": "China",
+							"rank": 5
+						},
+						{ 
+							"name": "Mining", 
+							"children":  [
+								{"name":"China Coal Energy","size":176}
+							],
+							"country": "China",
+							"rank": 47
+						},
+						{ 
+							"name": "Building Material", 
+							"children":  [
+								{"name":"China National Building Materials Company Limited","size":192}
+							],
+							"country": "China",
+							"rank": 57
+						},
+						{ 
+							"name": "Petroleum and Natural Gas", 
+							"children":  [
+								{"name":"Rosneft OAO","size":854}
+							],
+							"country": "China",
+							"rank": 6
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Rest 150",
+			"size": 9812.78
+		}
+	]
+}
