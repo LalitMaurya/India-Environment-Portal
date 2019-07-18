@@ -1,5 +1,5 @@
 {
-  "baseTemperature": 10,
+  "baseTemperature": 0,
   "monthlyVariance": [
 {"year":1880,"month":1,"variance":-0.18},
 {"year":1880,"month":2,"variance":-0.25},
